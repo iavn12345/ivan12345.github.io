@@ -20,5 +20,6 @@ int main()
 ```
 ## 好笑的圖
 [銘傳大學首頁](https://web.mcu.edu.tw)
+
 [嗨呀](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sid0053459-1611141045.jpeg?crop=1.00xw:0.889xh;0,0.0769xh&resize=768:*)
 ![嗨呀](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sid0053459-1611141045.jpeg?crop=1.00xw:0.889xh;0,0.0769xh&resize=768:*)
